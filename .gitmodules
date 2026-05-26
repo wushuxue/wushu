@@ -1,0 +1,15 @@
+[submodule "shan"]
+	path = shan
+	url = git@github.com:wushuxue/shan.git
+[submodule "yi"]
+	path = yi
+	url = git@github.com:wushuxue/yi.git
+[submodule "ming"]
+	path = ming
+	url = git@github.com:wushuxue/ming.git
+[submodule "xiang"]
+	path = xiang
+	url = git@github.com:wushuxue/xiang.git
+[submodule "bu"]
+	path = bu
+	url = git@github.com:wushuxue/bu.git
